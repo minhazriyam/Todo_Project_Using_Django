@@ -19,8 +19,16 @@
 ✅ Django Forms for clean form handling  
 ✅ Secure with CSRF protection  
 
-## 🎥 Demo
-*Add a screenshot or a demo link here if available.*
+## 📸 Screenshots
+
+### 🖥️ Home Page
+![Home Page](images/homepage.png)
+
+### ✏ Edit Task Page
+![Edit Task](images/edit_task.png)
+
+
+
 
 ## 🛠️ Tech Stack
 - **Backend:** Django (Python)  
