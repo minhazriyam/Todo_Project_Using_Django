@@ -25,7 +25,7 @@
 ![Home Page](images/homepage.png)
 
 ### ✏ Edit Task Page
-![Edit Task](images/edit_task.png)
+![Edit Page](images/editpage.png)
 
 
 
